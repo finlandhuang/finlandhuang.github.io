@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Michele C. Weigle @ ODU"
+title                    : "Feiran Huang (黄斐然), Jinan University"
 title_separator          : "-"
-name                     : &name "Michele C. Weigle"
+name                     : &name "Feiran Huang (黄斐然)"
 description              : &description "Professor of Computer Science"
-url                      : https://weiglemc.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://finlandhuang.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "weiglemc/weiglemc.github.io"
+repository               : "finlandhuang/finlandhuang.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : true # true, false (default)
 words_per_minute         : 160
@@ -82,24 +82,24 @@ analytics:
 
 # Site Author
 author:
-  name             : "Dr. Michele C. Weigle"
+  name             : "Dr. Feiran Huang"
   avatar           : "mweigle-ODU.jpg"
   bio              : "Professor of Computer Science"
   location         : "Norfolk, VA"
-  employer         : "Old Dominion University"
+  employer         : "Jinan University"
   employeruri      : "https://www.odu.edu"
   pubmed           : 
-  googlescholar    : "http://scholar.google.com/citations?user=MOLPTqcAAAAJ&hl=en"
+  googlescholar    : "https://scholar.google.com/citations?user=of1vcxsAAAAJ"
   email            : "mweigle at cs dot odu dot edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
-  uri              : "https://www.cs.odu.edu/~mweigle/"
+  uri              : "https://faculty.jnu.edu.cn/xxkxjsxy/hfr2/list.htm"
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
   facebook         :
   foursquare       :
-  github           : "weiglemc"
+  github           : "finlandhuang"
   google_plus      :
   keybase          :
   instagram        :
